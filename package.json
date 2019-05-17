@@ -1,0 +1,24 @@
+{
+  "name": "nodejslab01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/archibald2406/NodeJsLab01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/archibald2406/NodeJsLab01/issues"
+  },
+  "homepage": "https://github.com/archibald2406/NodeJsLab01#readme",
+  "dependencies": {
+    "inquirer": "^6.3.1",
+    "moment": "^2.24.0"
+  }
+}
